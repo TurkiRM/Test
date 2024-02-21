@@ -15,7 +15,7 @@ price=p;
 }
 void display(){
 
-cout<<" the car price is:"<<price<<endl;
+cout<<" the  price is:"<<price<<endl;
 }
 friend void IncreacePrice(car c1);
 };
